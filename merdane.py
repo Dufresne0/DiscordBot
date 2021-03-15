@@ -34,4 +34,4 @@ async def Shultz(ctx, *args):
         await ctx.send('Buğra Aydın Götünü Siktim Gözün Aydın')
 
 
-Bot.run('ODAwNjQ1MDM2NjA5NzY1Mzc2.YAVIyw.jCHbSnZX8xyMikR1ROjLRqNP4Ws')
+Bot.run('TOKEN')
